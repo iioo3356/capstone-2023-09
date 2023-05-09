@@ -12,6 +12,7 @@ export const API_URL = {
   ORGANIZATIONS_DELETE: '/api/organizations/delete',
   USER_INFO: '/api/users/get/',
   USER_INFO_POST: '/api/users/create/',
+  MY_VOLUNTEER: '/api/users/mypage/certification',
 };
 
 // 토큰 필요 없는 애들
